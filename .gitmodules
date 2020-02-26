@@ -1,0 +1,12 @@
+[submodule "cli_calculator"]
+	path = cli_calculator
+	url = ./cli_calculator
+[submodule "determinante_matrizes"]
+	path = determinante_matrizes
+	url = ./determinante_matrizes
+[submodule "fix_decode_errors"]
+	path = fix_decode_errors
+	url = ./fix_decode_errors
+[submodule "feed_superproject"]
+	path = feed_superproject
+	url = ./feed_superproject
